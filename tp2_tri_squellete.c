@@ -1,9 +1,8 @@
 /**********************************************************************************************************/
 /* Auteur :   IKLI Anas                                                                                   */
-/* Groupe : B1												  */
-/* Application : tp2_tri_squellette.c                                                                     */
+/* Application : tri_squellette                                                                           */
 /* Date :              14/10                                                                              */
-/*Version : 1.0                                                            */
+/* Version : 1.0                                                                                           */
 /**********************************************************************************************************/
 
 //Declaration des bibliotheques utilisees
